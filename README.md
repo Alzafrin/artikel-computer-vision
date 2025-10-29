@@ -139,32 +139,4 @@ Pemahaman hubungan ini penting untuk penelitian dan pengembangan teknologi berba
 
 ---
 
-## 🚀 Cara Upload ke GitHub
-1. Buka [GitHub](https://github.com) → Login  
-2. Klik **New Repository**  
-   - Nama repo: `artikel-computer-vision`  
-   - Deskripsi: “Artikel tugas kuliah tentang Computer Vision dan AI”  
-3. Pilih **Public**  
-4. Klik **Add file → Create new file**  
-5. Ketik nama file: `README.md`  
-6. Salin dan tempel isi artikel ini  
-7. Klik **Commit new file**  
-8. Repositori siap dibagikan ke dosen atau publik 🎓  
-
----
-
-## 📂 Struktur Rekomendasi Folder
-artikel-computer-vision/
-│
-├── README.md ← artikel utama
-├── images/ ← folder untuk ilustrasi pendukung
-│ ├── hierarchy-ai-ml-dl-cv.png
-│ └── cnn-architecture.png
-└── references/ ← sumber bacaan tambahan (PDF, paper, jurnal)
-
----
-
-
----
-
 
